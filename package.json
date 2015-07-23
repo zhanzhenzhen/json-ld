@@ -1,0 +1,20 @@
+{
+    "name": "json-ld",
+    "version": "0.1.0-alpha",
+    "description": "A simplified implementation of the official JSON-LD",
+    "keywords": ["jsonld"],
+    "author": "Zhenzhen Zhan <zhanzhenzhen@hotmail.com>",
+    "homepage": "https://github.com/zhanzhenzhen/json-ld",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhanzhenzhen/json-ld.git"
+    },
+    "main": "lib/index.js",
+    "dependencies": {
+        "jsonld": "0.3.22"
+    },
+    "devDependencies": {
+        "coffee-script": "1.9.3"
+    }
+}
