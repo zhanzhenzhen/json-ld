@@ -1,6 +1,6 @@
 {
     "name": "json-ld",
-    "version": "0.1.0-alpha",
+    "version": "0.1.0",
     "description": "A simplified implementation of the official JSON-LD",
     "keywords": ["jsonld"],
     "author": "Zhenzhen Zhan <zhanzhenzhen@hotmail.com>",
