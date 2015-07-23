@@ -12,6 +12,7 @@
     },
     "main": "./lib/main.js",
     "dependencies": {
+        "mate": "0.20.2",
         "jsonld": "0.3.22"
     },
     "devDependencies": {
